@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>NinjaLAB - DNS Managment</title>
+  <link rel="stylesheet" href="./index.css" media="screen" charset="utf-8">
+</head>
+
+<body>
+  <div class="container">
+    <header class="header">
+      <div class="wrapper">
+        <img src="assets/logo.png" />
+        <h1 class="title">
+          Settings
+        </h1>
+      </div>
+
+    </header>
+    <nav class="navigation">
+      <ul class="list">
+        <li class="item disabled">Profile</li>
+        <li class="item disabled">Notifications</li>
+        <li class="item active">Name-servers</li>
+        <li class="item disabled">Advanced</li>
+      </ul>
+    </nav>
+    <section class="content">
+      <ul class="content-list">
+      </ul>
+      <form class="form">
+        <label for="add">Add new DNS 👉</label>
+        <input id="name" name="add" type="text" placeholder="Staging" required />
+        <input id="ip" name="add" type="text" placeholder="8.8.8.8" required />
+        <button>Add</button>
+      </form>
+    </section>
+    <footer class="footer">
+      <p>Developed by Lucas Kahl 💎</p>
+      <p>V 0.0.1 | Alpha</p>
+    </footer>
+  </div>
+  <script src="./renderer.js"></script>
+</body>
+
+</html>
