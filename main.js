@@ -116,7 +116,7 @@ const openAboutWindow = () => {
 }
 
 app.on('ready', () => {  
-  tray = new Tray(path.join(assetsDirectory, 'logosmall.png'))
+  tray = new Tray(path.join(assetsDirectory, 'iconTemplate.png'))
 
   const template = createMenu();
   const menu = Menu.buildFromTemplate(template);
