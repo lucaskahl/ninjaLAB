@@ -1,6 +1,9 @@
 
+
 <p align="center">
-![ninjaLAB photo](https://i.ibb.co/vQTcpb3/image-1.png)
+  <a href="https://github.com/lucaskahl/ninjaLAB">
+    <img src="https://i.ibb.co/vQTcpb3/image-1.png" height="350" width="375" alt="NinjaLab" />
+  </a>
 </p>
 
 # NinjaLAB - DNS Managment
@@ -47,7 +50,7 @@ Just execute the executable inside ./dist folder.
 
 **Question:** What are the tecnologies used in this project?
 
-**Answer:** The tecnologies used in this project are [NodeJS](https://nodejs.org/en/) + [ElectronJS]https://www.electronjs.org/).
+**Answer:** The tecnologies used in this project are [NodeJS](https://nodejs.org/en/) + [ElectronJS](https://www.electronjs.org/).
 ##
 
 # :bug: Issues
