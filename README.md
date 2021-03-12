@@ -1,9 +1,9 @@
 
 <p align="center">
-![image 1](https://user-images.githubusercontent.com/36921642/110877600-61b86580-82b8-11eb-9281-28590dbfd00d.png)
+![ninjaLAB photo](https://i.ibb.co/vQTcpb3/image-1.png)
 </p>
 
-# NinjaLAB
+# NinjaLAB - DNS Managment
 [![Stars](https://img.shields.io/github/stars/lucaskahl/ninjaLAB?color=D54F44&style=flat-square)](https://github.com/lucaskahl/ninjaLAB/stargazers)
 [![Forks](https://img.shields.io/github/forks/lucaskahl/ninjaLAB?color=%23D54F44&style=flat-square)](https://github.com/lucaskahl/ninjaLAB/network/members)
 [![Contributors](https://img.shields.io/github/contributors/lucaskahl/ninjaLAB?color=D54F44&style=flat-square)](https://github.com/lucaskahl/ninjaLAB/graphs/contributors)
