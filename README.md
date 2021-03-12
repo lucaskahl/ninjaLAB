@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/lucaskahl/ninjaLAB">
-    <img src="https://i.ibb.co/vQTcpb3/image-1.png" height="350" width="375" alt="NinjaLab" />
+    <img src="https://i.ibb.co/vQTcpb3/image-1.png" alt="NinjaLab" />
   </a>
 </p>
 
