@@ -1,45 +1,55 @@
-# electron-quick-start
 
-**Clone and run for a quick way to see Electron in action.**
+<p align="center">
+![image 1](https://user-images.githubusercontent.com/36921642/110877600-61b86580-82b8-11eb-9281-28590dbfd00d.png)
+</p>
 
-This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
+# NinjaLAB
+[![Stars](https://img.shields.io/github/stars/lucaskahl/ninjaLAB?color=D54F44&style=flat-square)](https://github.com/lucaskahl/ninjaLAB/stargazers)
+[![Forks](https://img.shields.io/github/forks/lucaskahl/ninjaLAB?color=%23D54F44&style=flat-square)](https://github.com/lucaskahl/ninjaLAB/network/members)
+[![Contributors](https://img.shields.io/github/contributors/lucaskahl/ninjaLAB?color=D54F44&style=flat-square)](https://github.com/lucaskahl/ninjaLAB/graphs/contributors)
 
-**Use this app along with the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
+> A GUI made in ElectronJS to store and change the DNS in macOS on your network devices.
 
-A basic Electron application needs just these files:
+---
 
-- `package.json` - Points to the app's main file and lists its details and dependencies.
-- `main.js` - Starts the app and creates a browser window to render HTML. This is the app's **main process**.
-- `index.html` - A web page to render. This is the app's **renderer process**.
+# :pushpin: Table of Contents
 
-You can learn more about each of these components within the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start).
+* [Features](#rocket-features)
+* [Installation](#construction_worker-installation)
+* [FAQ](#postbox-faq)
+* [Found a bug? Missing a specific feature?](#bug-issues)
 
-## To Use
+# :rocket: Features
 
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+* 📨 Add DNS and persist it.
+* 📨 Change the DNS based network device.
 
-```bash
-# Clone this repository
-git clone https://github.com/electron/electron-quick-start
-# Go into the repository
-cd electron-quick-start
-# Install dependencies
-npm install
-# Run the app
-npm start
-```
+# :construction_worker: Installation
 
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+**You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then in order to clone the project via HTTPS, run this command:**
 
-## Resources for Learning Electron
+```git clone https://github.com/lucaskahl/ninjaLAB.git```
 
-- [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
-- [electronjs.org/community#boilerplates](https://electronjs.org/community#boilerplates) - sample starter apps created by the community
-- [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - a very basic starter Electron app
-- [electron/simple-samples](https://github.com/electron/simple-samples) - small applications with ideas for taking them further
-- [electron/electron-api-demos](https://github.com/electron/electron-api-demos) - an Electron app that teaches you how to use Electron
-- [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
+**Install dependencies**
 
-## License
+```yarn install```
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
+**Setup**
+
+Run the following command to build: ( You need to have a mac machine )
+
+```yarn dist```
+
+**Installation**
+Just execute the executable inside ./dist folder.
+
+# :postbox: Faq
+
+**Question:** What are the tecnologies used in this project?
+
+**Answer:** The tecnologies used in this project are [NodeJS](https://nodejs.org/en/) + [ElectronJS]https://www.electronjs.org/).
+##
+
+# :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description.
